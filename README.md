@@ -1,3 +1,9 @@
+# Course Github page
+
+https://github.com/mainmatter/rust-python-interoperability
+
+## This repository contains my solutions to the course, refer to the link above for the clean repo
+
 # Rust-Python interoperability
 
 Welcome to **"Rust-Python interoperability"**!
