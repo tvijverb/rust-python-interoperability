@@ -1,5 +1,5 @@
 [project]
-name = "modules_sample"
+name = "02_modules"
 version = "0.1.0"
 dependencies = []
 readme = "README.md"
